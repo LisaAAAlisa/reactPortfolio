@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactPortfolio/static/css/main.a37fc261.chunk.css",
+    "main.js": "/reactPortfolio/static/js/main.081b69bb.chunk.js",
+    "main.js.map": "/reactPortfolio/static/js/main.081b69bb.chunk.js.map",
+    "runtime-main.js": "/reactPortfolio/static/js/runtime-main.e14ef1f8.js",
+    "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.e14ef1f8.js.map",
+    "static/js/2.1400733a.chunk.js": "/reactPortfolio/static/js/2.1400733a.chunk.js",
+    "static/js/2.1400733a.chunk.js.map": "/reactPortfolio/static/js/2.1400733a.chunk.js.map",
+    "index.html": "/reactPortfolio/index.html",
+    "static/css/main.a37fc261.chunk.css.map": "/reactPortfolio/static/css/main.a37fc261.chunk.css.map",
+    "static/js/2.1400733a.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.1400733a.chunk.js.LICENSE.txt",
+    "static/media/lexi.1a8edde7.png": "/reactPortfolio/static/media/lexi.1a8edde7.png",
+    "static/media/App.css": "/reactPortfolio/static/media/pexels-photo-1103970.a5e20828.jpeg",
+    "static/media/pr1.9f4302c7.png": "/reactPortfolio/static/media/pr1.9f4302c7.png",
+    "static/media/pw.0b9b03b6.png": "/reactPortfolio/static/media/pw.0b9b03b6.png",
+    "static/media/screen.29ade9b8.png": "/reactPortfolio/static/media/screen.29ade9b8.png",
+    "static/media/wa.ef60bd78.png": "/reactPortfolio/static/media/wa.ef60bd78.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e14ef1f8.js",
+    "static/js/2.1400733a.chunk.js",
+    "static/css/main.a37fc261.chunk.css",
+    "static/js/main.081b69bb.chunk.js"
+  ]
+}
