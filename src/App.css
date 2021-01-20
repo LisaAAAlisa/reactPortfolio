@@ -1,0 +1,46 @@
+body {
+  background-image: url("./components/assets/images/pexels-photo-1103970.jpeg");
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+.about-me {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  text-align: justify;
+}
+.navbar-brand {
+font-size: 2em;
+
+}
+
+#navbarNav {
+  font-size: 1.5em;
+}
+
+.contact-side {
+  font-size: 1em;
+}
+.header {
+  margin-left: 1.5em;
+  margin-top: .5em;
+}
+
+.with-image {
+  text-align: jistified;
+}
+
+.img-fluid {
+  width: 308px;
+  height: 148px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    opacity: .7;
+    color: white;
+
+}
